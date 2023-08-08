@@ -14,7 +14,7 @@ const bot = mineflayer.createBot({
   version: '1.19.2', 
 //
     plugins: {
-    selfcare: require('./modules/selfcare.js')
+    selfcare: require('./selfcare.js')
       }
 })
  //
